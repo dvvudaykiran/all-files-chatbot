@@ -1,0 +1,8 @@
+streamlit
+openai
+llama-index
+PyMuPDF
+extract-msg
+pandas
+python-docx
+beautifulsoup4
